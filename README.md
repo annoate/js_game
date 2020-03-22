@@ -1,2 +1,2 @@
-# js_game
+# pain.js
 painting board with js
